@@ -1,6 +1,11 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+/**
+ * Converts and colculates user's BMI based on height and weight
+ * @version 11/16/2022
+ * @author 23truitt
+ */
 public class BMICalculator {
     /** Convert English to metric units, perform the BMI calculation.
      * NOTE:this method myst properly handle bad data
