@@ -49,19 +49,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bmicalctester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BMICalcTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BMICalculator" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="bmicalctester" />
+      <option name="MAIN_CLASS_NAME" value="BMICalcTester" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bmicalctester.testComputeBMI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BMICalcTester.testComputeBMI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BMICalculator" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="bmicalctester" />
+      <option name="MAIN_CLASS_NAME" value="BMICalcTester" />
       <option name="METHOD_NAME" value="testComputeBMI" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -71,8 +71,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BMICalculator" />
-        <item itemvalue="JUnit.bmicalctester" />
-        <item itemvalue="JUnit.bmicalctester.testComputeBMI" />
+        <item itemvalue="JUnit.BMICalcTester" />
+        <item itemvalue="JUnit.BMICalcTester.testComputeBMI" />
       </list>
     </recent_temporary>
   </component>
